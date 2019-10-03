@@ -1,3 +1,25 @@
-header {
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    margin-left: 100px
+}
+.title-header {
+    background-color: black;
     color: teal;
+    text-indent: -30px;
+    padding: 30px;
+}
+
+body {
+    background-color:#04476b;
+    color: #c9ffcc;
+    text-indent: 30px;
+    font-family: ver;
+}
+
+#angry-finish{
+    color: red
 }
